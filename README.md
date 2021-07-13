@@ -5,7 +5,7 @@ A ROS package to draw shapes using [turtlesim](http://wiki.ros.org/turtlesim)
 Run the following commands in your terminal to install this package.  
 ```
 cd ~/catkin_ws/src  
-git clone https://github.com/Pranjalmishra30/TurtleSim_Draw.git  
+git clone https://github.com/Pranjalmishra30/turtlesim_shapes.git  
 cd ..  
 catkin_make  
 source devel/setup.bash  
